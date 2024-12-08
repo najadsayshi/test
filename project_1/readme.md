@@ -86,7 +86,7 @@ This project is a simple HTML and JavaScript-based password generator featuring 
 - ✅ Include validation for the username field to ensure input meets specified criteria.
 
 ## 🙌 Credits
-- **🛠️ Developed by**: [Your Name]
+- **🛠️ Developed by**: Najad
 - **💡 Inspired by**: Common password generation tools and best practices.
 
 ---
