@@ -18,7 +18,7 @@ This project is a simple HTML and JavaScript-based password generator featuring 
 
 ## 🗂️ File Structure
 ```
-📄 index.html
+📄 passwordgenerator
 ```
 
 ## 🛠️ Code Details
@@ -74,7 +74,7 @@ This project is a simple HTML and JavaScript-based password generator featuring 
    ```
 
 ## 🧑‍💻 How to Use
-1. Open the `index.html` file in a 🌐 web browser.
+1. Open the `passwordgenerator` file in a 🌐 web browser.
 2. Enter a 👤 username in the username field.
 3. Click the **🔐 Generate Password** button to generate a secure password.
 4. Check the **👁️ Show Password** box to view the password in plain text.
